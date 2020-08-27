@@ -1,0 +1,17 @@
+h1 {
+    color: black;
+    text-align: center;
+    background-color: lightcyan;
+}
+
+body {
+    background-color:lightgray;
+}
+
+canvas{
+    margin-left: 1px;
+    margin-right: -1000px;
+    margin-top: 5px;
+    border: 2px solid black;
+  }
+  
